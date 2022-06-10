@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwhos_that_pokemon=self.webpackChunkwhos_that_pokemon||[]).push([[799],{799:function(r,n,o){o.r(n),o.d(n,{Error404:function(){return e}});o(791);var t=o(184),e=function(){return(0,t.jsx)("div",{children:"Error404"})}}}]);
+//# sourceMappingURL=799.fa28b2b8.chunk.js.map
