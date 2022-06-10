@@ -1,0 +1,7 @@
+.container__loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    max-width: 1440px;
+}

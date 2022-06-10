@@ -1,0 +1,40 @@
+main {
+    height: 100vh;
+    background: url("https://p4.wallpaperbetter.com/wallpaper/933/827/743/pokemon-pixel-art-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0;
+    background-attachment: fixed;
+}
+
+.main__start {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main__start h1 {
+    text-align: center;
+}
+
+.main__start img {
+    width: 300px;
+    opacity: 1;
+}
+
+.buttons {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.buttons .play__button {
+    display: flex;
+    align-items: center;
+}
+
+.buttons .play__button > i {
+    margin-left: 16px;
+}

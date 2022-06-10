@@ -1,0 +1,15 @@
+.container__game {
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__game > img {
+    width: 300px;
+}
+
+.container__game > div {
+    margin-top: 1rem;
+}
