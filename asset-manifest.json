@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/whos-that-pokemon/static/css/main.22e886e8.css",
-    "main.js": "/whos-that-pokemon/static/js/main.a0957c84.js",
+    "main.css": "/whos-that-pokemon/static/css/main.207300b5.css",
+    "main.js": "/whos-that-pokemon/static/js/main.c9fcb156.js",
     "static/js/799.fa28b2b8.chunk.js": "/whos-that-pokemon/static/js/799.fa28b2b8.chunk.js",
     "static/media/music.mp3": "/whos-that-pokemon/static/media/music.ae904d89a25b61d0ef74.mp3",
     "service-worker.js": "/whos-that-pokemon/service-worker.js",
     "index.html": "/whos-that-pokemon/index.html",
-    "main.22e886e8.css.map": "/whos-that-pokemon/static/css/main.22e886e8.css.map",
-    "main.a0957c84.js.map": "/whos-that-pokemon/static/js/main.a0957c84.js.map",
+    "main.207300b5.css.map": "/whos-that-pokemon/static/css/main.207300b5.css.map",
+    "main.c9fcb156.js.map": "/whos-that-pokemon/static/js/main.c9fcb156.js.map",
     "799.fa28b2b8.chunk.js.map": "/whos-that-pokemon/static/js/799.fa28b2b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22e886e8.css",
-    "static/js/main.a0957c84.js"
+    "static/css/main.207300b5.css",
+    "static/js/main.c9fcb156.js"
   ]
 }
